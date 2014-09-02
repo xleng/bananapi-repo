@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+   <default revision="master" 
+            sync-j="4"/>
+
+   <remote fetch="https://github.com" name="ghub"/>
+
+   <project remote="ghub"  name="xleng/meta-sunxi"        path="poky/meta-sunxi"/>
+   <project remote="ghub"  name="xleng/meta-bananapi"        path="poky/meta-sunxi/meta-bananapi"/>
+   </project>
+
+</manifest>
+
