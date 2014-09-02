@@ -8,7 +8,6 @@
 
    <project remote="ghub"  name="xleng/meta-sunxi"        path="poky/meta-sunxi"/>
    <project remote="ghub"  name="xleng/meta-bananapi"        path="poky/meta-sunxi/meta-bananapi"/>
-   </project>
 
 </manifest>
 
